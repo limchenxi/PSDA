@@ -1,6 +1,6 @@
 # PROBABILITY & STATISTICAL DATA ANALYSIS 
 ## Project 2
-[Report]()
+[Report](https://github.com/limchenxi/PSDA/blob/main/Project2_report.pdf)
 ## Dataset
 [Life Expectancy Data.csv](https://github.com/user-attachments/files/16043498/Life.Expectancy.Data.csv)
 ## Slide
