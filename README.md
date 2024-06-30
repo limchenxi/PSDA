@@ -4,7 +4,7 @@
 ## Dataset
 [Life Expectancy Data.csv](https://github.com/user-attachments/files/16043498/Life.Expectancy.Data.csv)
 ## Slide
-[Slide]()
+[Slide](https://github.com/limchenxi/PSDA/blob/main/Project2_slide.pdf)
 ## Video presentation
 [Video]()
 
