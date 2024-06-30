@@ -1,6 +1,9 @@
 # PROBABILITY & STATISTICAL DATA ANALYSIS 
 ## Project 2
 [report]()
+## Dataset
+[Life Expectancy Data.csv](https://github.com/user-attachments/files/16043498/Life.Expectancy.Data.csv)
+
 ## Video presentation
 [video]()
 
